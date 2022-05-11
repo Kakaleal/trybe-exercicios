@@ -1,0 +1,97 @@
+
+h1{
+ font-family: Montserrat, sans-serif;
+ color:black
+} 
+p,li{
+    color:#475550;
+     font-size: 16px;
+}
+h1,h3,h3{
+   color:#11a36a
+}
+.trybe-gren{
+   color:#11a36a
+ 
+}
+#hero-title{
+text-align: margin;
+color: #0a7e51;
+font-size: 40px;
+line-height: 50px;
+font-weight: 600;
+letter-spacing: -1px;
+ 
+}
+.section-title{
+   font-size: 28px;
+   line-height: 42px;
+   font-weight: 600px;
+}
+.information-information{
+ color: #11a36a;
+ font-size: 25px;
+ line-height: 40px;
+}
+.picture{
+   border-radius: 100%;
+   
+
+}
+.Button{
+   background-color: #11a36a;
+   color:aliceblue;
+   text-decoration: none;
+   padding: 10px;
+}
+
+.aspas-aspas{
+ color: #11a36a;
+ font-size: 14px;
+ line-height: 20px;
+}
+ #header{
+     background-image: url(imagens/5d4c18a28620ae56f733b01a_hero-image.jpg);
+     background-position: 50% 25%;
+     background-size: cover;
+     padding:60px 40px  30px;
+
+ }
+ #header-content{
+     max-width :50%;
+     margin-left: 75px;
+ }
+ #header-test{
+     max-width: 81%;
+
+ }
+ #sing-up{
+     margin-left: 75px;
+     margin-top:40px;
+
+ }
+ .testimonial-name{
+     font-size: 14px;
+     line-height: 20px;
+     font-weight: 600;
+ }
+
+#marketing{
+    text-align: center;
+    padding: 70px;
+  
+    
+
+    
+}
+#marketing-test{
+    margin:auto;
+    font-weight: 60%;
+}
+  
+#estudantes{
+    display: inline-table;
+    flex-direction: column;
+    
+}
+
