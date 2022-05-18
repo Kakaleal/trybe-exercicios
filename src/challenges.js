@@ -1,7 +1,15 @@
-// Desafio 1
-function compareTrue() {
-  // seu código aqui
+let num1 ='true';
+let num2 ='false';
+
+function compareTrue (num1, num2) {
+  
+    if ( num1 === true && num2 === true){
+      return true;
+    } else {
+      return 'Algo de errado';
+    } 
 }
+
 
 // Desafio 2
 function calcArea() {
@@ -63,4 +71,5 @@ module.exports = {
   highestCount,
   splitSentence,
   techList,
-};
+}; 
+*/
